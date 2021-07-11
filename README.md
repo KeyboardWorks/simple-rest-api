@@ -1,7 +1,7 @@
 # Simple REST API
 Make a simple REST API using spring boot
 
-# Depedencies
+# Dependencies
 ```xml
 
     <dependency>
